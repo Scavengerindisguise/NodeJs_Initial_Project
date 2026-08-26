@@ -1,0 +1,9 @@
+20260808	15:52:30	abefc54f-ef20-4988-abaf-b34083bc3df8	Error: Not allowed by CORS
+20260808	15:52:38	ad964698-5155-4287-91e4-cb2fad953168	Error: Not allowed by CORS
+20260808	15:56:13	11a97ad5-2321-442d-b571-b507dec68e6b	Error: Not allowed by CORS
+20260820	12:36:30	f323b8be-c49f-4884-b692-dd83e8542546	SyntaxError: Unexpected token '"', "" {\"first"... is not valid JSON
+20260821	21:51:13	48bf77b6-b30d-4799-b6f2-0ac4ccab3d9d	SyntaxError: Unexpected token '"', ""{ \"first"... is not valid JSON
+20260821	21:51:44	e5fc1d7d-f4d3-4e86-ac3e-5904077aa4a5	SyntaxError: Unexpected token '"', ""{\"firstn"... is not valid JSON
+20260821	21:51:45	c6f0c4a5-67fe-4012-af80-4eba81b2f19a	SyntaxError: Unexpected token '"', ""{\"firstn"... is not valid JSON
+20260821	21:52:03	28a238f0-efbe-45b7-9c95-553b42e28c98	SyntaxError: Unexpected token '"', ""{\"firstn"... is not valid JSON
+20260822	11:29:09	cb8a216f-deac-4f68-902a-cdfca80030e3	ReferenceError: fsPromises is not defined
